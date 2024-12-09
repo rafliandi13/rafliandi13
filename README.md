@@ -3,7 +3,6 @@
 🌊 Software Engineer
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafliandi13&show_icons=true&include_all_commits=true&theme=tokyonight&hide=issues" />
-<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafliandi13&layout=compact&theme=tokyonight" />
 
 <!--
