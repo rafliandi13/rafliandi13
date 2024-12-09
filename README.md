@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 🌊 Software Engineer
-
+🌱 I’m currently learning Mobile and Web Development
+🔭 I’m interest with machine learning 
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafliandi13&show_icons=true&include_all_commits=true&theme=tokyonight&hide=issues" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafliandi13&layout=compact&theme=tokyonight" />
