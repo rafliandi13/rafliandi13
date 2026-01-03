@@ -2,7 +2,7 @@
 
 🌊 Software Engineer
 <br>
-🌱 I’m currently learning Mobile and Web Development
+🌱 I’m currently working with Mobile and Web Development
 <br>
 🔭 I’m interest with machine learning 
 <br>
