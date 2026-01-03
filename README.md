@@ -1,36 +1,48 @@
-### Hi there 👋
+# 👋 Hi, I'm Rafliandi Ardana
 
-🌊 Software Engineer
-<br>
-🌱 I’m currently working with Mobile and Web Development
-<br>
-🔭 I’m interest with machine learning 
-<br>
-<br>
-### Tech Stack
-JAVA
-Flutter
-Express.js
-Python
-React.js
-GO
+🚀 Software Developer | 📱 Android Engineer | 🎥 Tech Content Creator  
 
-<!-- <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafliandi13&show_icons=true&include_all_commits=true&theme=tokyonight&hide=issues" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafliandi13&layout=compact&theme=tokyonight" />
-</span> -->
+Saya adalah seorang developer yang fokus pada **mobile development, backend, dan teknologi modern**, serta aktif membuat **konten edukasi teknologi** di media sosial untuk membantu programmer belajar dengan cara yang mudah dipahami.
 
-<!--
-**rafliandi13/rafliandi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 💻 Berpengalaman di **Android (Java)** & **Flutter**
+- ⚙️ Familiar dengan **Backend, API, Docker, dan Database**
+- 📊 Tertarik pada **Data, Machine Learning, dan System Design**
+- 🎥 Aktif membuat konten edukasi teknologi (coding, mindset, best practice)
+- 🌱 Saat ini fokus belajar **software engineering best practices & scalable system**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Javascript
+- Dart
+- Java
+- Python
+- Go
+- SQL
+
+**Mobile Development**
+- Android (Java)
+- Flutter
+
+**Backend & Tools**
+- Node.js
+- Laravel
+- REST API
+- Docker
+- PostgreSQL / MySQL
+- Git & GitHub
+
+**Others**
+- Clean Architecture
+- System Design
+- Basic Machine Learning
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight)
