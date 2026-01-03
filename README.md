@@ -7,6 +7,14 @@
 🔭 I’m interest with machine learning 
 <br>
 <br>
+### Tech Stack
+JAVA
+Flutter
+Express.js
+Python
+React.js
+GO
+
 <!-- <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafliandi13&show_icons=true&include_all_commits=true&theme=tokyonight&hide=issues" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafliandi13&layout=compact&theme=tokyonight" />
