@@ -7,10 +7,10 @@
 🔭 I’m interest with machine learning 
 <br>
 <br>
-<span>
+<!-- <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafliandi13&show_icons=true&include_all_commits=true&theme=tokyonight&hide=issues" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafliandi13&layout=compact&theme=tokyonight" />
-</span>
+</span> -->
 
 <!--
 **rafliandi13/rafliandi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
