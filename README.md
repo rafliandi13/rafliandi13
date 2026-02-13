@@ -41,8 +41,3 @@ Saya adalah seorang developer yang fokus pada **mobile development, backend, dan
 - Clean Architecture
 - System Design
 - Basic Machine Learning
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafliandi13&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafliandi13&layout=compact&theme=tokyonight)
