@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Rafliandi Ardana
 
-🚀 Software Developer | 📱 Android Engineer | 🎥 Tech Content Creator  
+🚀 Software Developer
 
-Saya adalah seorang developer yang fokus pada **mobile development, backend, dan teknologi modern**, serta aktif membuat **konten edukasi teknologi** di media sosial untuk membantu programmer belajar dengan cara yang mudah dipahami.
-
+Saya adalah seorang developer yang fokus pada **mobile development, backend, dan teknologi modern**
 ---
 
 ## 🧠 About Me
@@ -17,27 +16,10 @@ Saya adalah seorang developer yang fokus pada **mobile development, backend, dan
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Javascript
-- Dart
-- Java
-- Python
-- Go
-- SQL
+Mobile: Android (Java), Flutter, Dart
 
-**Mobile Development**
-- Android (Java)
-- Flutter
+Backend & DB: Node.js, Laravel, Go, PostgreSQL, MySQL
 
-**Backend & Tools**
-- Node.js
-- Laravel
-- REST API
-- Docker
-- PostgreSQL / MySQL
-- Git & GitHub
+DevOps & Tools: Docker, Git, REST API, System Design
 
-**Others**
-- Clean Architecture
-- System Design
-- Basic Machine Learning
+Data & AI: Python, Basic Machine Learning
