@@ -15,6 +15,9 @@
 ## 🛠️ Tech Stack
 
 Mobile: Android (Java), Flutter, Dart
+
 Backend & DB: Node.js, Laravel, Go, PostgreSQL, MySQL
+
 DevOps & Tools: Docker, Git, REST API, System Design
+
 Data & AI: Python, Basic Machine Learning
